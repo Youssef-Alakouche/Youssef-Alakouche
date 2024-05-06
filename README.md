@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Youssef Alakouche 👋
+
+I am Youssef, a Software Engineer from Morocco MA. I'm on an unending journey to enhance both my technical skills and personal growth.
+
+
+![Youssef-Alakouche's Stats](https://github-readme-stats.vercel.app/api?username=Youssef-Alakouche&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
 
 <!--
 **Youssef-Alakouche/Youssef-Alakouche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
