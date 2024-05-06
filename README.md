@@ -1,23 +1,21 @@
-### Hi, I'm Youssef Alakouche 👋
+<h1 align="center">Hi 👋, I'm Youssef</h1>
 
-I am Youssef, a Software Engineer from Morocco MA. I'm on an unending journey to enhance both my technical skills and personal growth.
 
+
+<h3>Welcome to my GitHub profile!</h3>
+
+<br/>
 
 ![Youssef-Alakouche's Stats](https://github-readme-stats.vercel.app/api?username=Youssef-Alakouche&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+- 💬 Contact me: [**@Twitter**](https://twitter.com/AbderrahimAl_) or [**@Linkedin**](https://www.linkedin.com/in/abderrahimal)
+
+<br/>
+<p align="center">
+<br/>
+You're welcome to duplicate projects and initiate discussions if you identify areas for improvement.
+<br/>
+Keep coding joyfully!
+</p>
 
 
-<!--
-**Youssef-Alakouche/Youssef-Alakouche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
